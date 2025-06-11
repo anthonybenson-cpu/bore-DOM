@@ -1,6 +1,6 @@
 // 1. Alter the text color of the paragraph to a shade of aqua.
 
-
+green
 
 // 2. Adjust the font size of the heading to 42 pixels.
 
